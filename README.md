@@ -1,1 +1,3 @@
-# Hello! , world!c
+# Hello! , world!
+
+i study in Netology
